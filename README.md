@@ -53,7 +53,13 @@ MultipleDiseasePrediction/
   Open the local Streamlit URL (usually http://localhost:8501).
 
 **📸 Screenshots**
-<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/84ee993d-654a-406a-92a4-251d81e81dae" />
+<img width="150" height="200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/84ee993d-654a-406a-92a4-251d81e81dae" />
+
+<img width="150" height="200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/a9702689-d3c0-4ad2-96e0-ce42941fb887" />
+
+<img width="150" height="200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/8cf6d12f-ffa0-40e2-99c0-021708ded7eb" />
+
+
 
 
 
