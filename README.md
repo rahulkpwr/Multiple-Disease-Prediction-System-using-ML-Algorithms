@@ -52,6 +52,12 @@ MultipleDiseasePrediction/
 4.**Access in Browser**
   Open the local Streamlit URL (usually http://localhost:8501).
 
+**📸 Screenshots**
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/84ee993d-654a-406a-92a4-251d81e81dae" />
+
+
+
+
 📊 Machine Learning Workflow
 Data Collection – Gather datasets for each disease.
 Data Preprocessing – Handle missing values, normalization, and encoding.
